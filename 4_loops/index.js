@@ -7,3 +7,6 @@ console.log(" I am on loops")
         console.log(i)
     }
 }
+{
+    console.log("Test")
+}
