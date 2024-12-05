@@ -36,3 +36,9 @@ console.log(typeof (b))
     obj.salary = 90 //appending in javascript
     console.log(obj) 
 }
+
+{
+    console.log("Aaditya" + " Shah")
+    console.log("Aaditya","Shah")
+
+}
